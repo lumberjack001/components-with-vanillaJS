@@ -1,0 +1,12 @@
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 95%;
+	background: white;
+	box-shadow: 0px 4px 37px #0d0d0d40;
+	border-radius: 0.7rem 0 0 0.7rem;
+	position: sticky;
+	top: 0;
+	z-index: 10000;
+}
